@@ -1,3 +1,13 @@
+# ContextQA Testing Lab — Java Spring PetClinic
+
+Public educational source fork. **[Start the lab →](lab/README.md)** · [Scenario checklist](lab/scenarios.json) · [Central learning hub](https://github.com/contextqaai/testing-lab)
+
+Hosted full-stack sessions and recorded ContextQA results are being prepared. No ContextQA run result is claimed by this repository.
+
+Original project: [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic). Original attribution and license remain below and in the repository. ContextQA lab materials are additions; upstream authors do not endorse them.
+
+## Upstream project documentation
+
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)[![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/spring-projects/spring-petclinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=7517918)

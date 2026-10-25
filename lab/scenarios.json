@@ -1,0 +1,39 @@
+{
+  "track": "Java Spring PetClinic",
+  "upstream": "https://github.com/spring-projects/spring-petclinic",
+  "upstream_commit": "500158f732419217507c7656904b8e6aa1bcc0d6",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "testing-lab-java-petclinic-01",
+      "title": "Owner search",
+      "assertion": "A seeded owner can be found by last name.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-java-petclinic-02",
+      "title": "Owner validation",
+      "assertion": "Invalid required fields prevent saving an owner.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-java-petclinic-03",
+      "title": "Pet association",
+      "assertion": "A new pet appears under the selected owner.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-java-petclinic-04",
+      "title": "Visit association",
+      "assertion": "A visit is recorded against the selected pet.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-java-petclinic-05",
+      "title": "Persistence",
+      "assertion": "Saved values remain visible after navigation and reload.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}
